@@ -12,17 +12,17 @@ I am interested submesoscale and small-scale processes in the ocean, such as sub
 
 ### Education
 
-1. 2011.09-2016.06, Physical Oceanography, PhD,             Ocean University of China, https://pan.baidu.com/s/1rQqUbPi0_kwwrsEnFZC0Fw
+1. 2011.09-2016.06, Physical Oceanography, PhD,             Ocean University of China
 
 1. 2007.09-2011.06, Marine Science,        Bachelor degree, Ocean University of China
 
 ### Work experience
 
-1. 2021.07-, School of Marine Sciences, NUIST, Assocaite Professor, https://pan.baidu.com/s/1fNy25CIdA8eBYqiHLZQkQg
+1. 2021.07-, School of Marine Sciences, NUIST, Assocaite Professor
 
-1. 2019.08-2020.08, Earth, Environmental and Planetary Sciences, Brown University, Visiting Scholar, https://pan.baidu.com/s/10ikOoxolOBZk8ujoZAghTQ
+1. 2019.08-2020.08, Earth, Environmental and Planetary Sciences, Brown University, Visiting Scholar
 
-1. 2016.07-2021.06, School of Marine Sciences, NUIST, Lecture, https://pan.baidu.com/s/1LCkqV2-sLzC1QkYL0DkjjA
+1. 2016.07-2021.06, School of Marine Sciences, NUIST, Lecture
 
 ### Publications
 
@@ -55,17 +55,17 @@ I am interested submesoscale and small-scale processes in the ocean, such as sub
 
 ### Research projects
 
-1. Open fund of State Key Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences, LTO2101, 2021.07-2023.6, ¥50,000, leader. 南海亚中尺度对称不稳定参数化方案应用, https://pan.baidu.com/s/1R5b4i6OeIVWzwoIV0-B0Zg
+1. Open fund of State Key Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences, LTO2101, 2021.07-2023.6, ¥50,000, leader. 南海亚中尺度对称不稳定参数化方案应用
 
 2. National Natural Foundation of China, 42130405, 2022.01-2026.12, ¥3000,000, participant. 全球变化下江苏海岸线变迁的过程-响应机制,
 
-3. National Natural Foundation of China, 42176023, 2022.01-2025.12, ¥580,000, leader. 亚中尺度对称不稳定参数化方案优化和应用, https://pan.baidu.com/s/1JhNfFbU6L8_bzT4V1AAJBg
+3. National Natural Foundation of China, 42176023, 2022.01-2025.12, ¥580,000, leader. 亚中尺度对称不稳定参数化方案优化和应用
 
-4. National Key Reserach and Development Program of China, 2018YFA0605904, 2018.07-2023.06, ¥4600,000, participant. 高分辨率海冰模式在地球系统模式中的应用, https://pan.baidu.com/s/1uk8QsANzbuGMJWqn6T48Bw
+4. National Key Reserach and Development Program of China, 2018YFA0605904, 2018.07-2023.06, ¥4600,000, participant. 高分辨率海冰模式在地球系统模式中的应用
 
-5. National Key Reserach and Development Program of China, 2017YFA0604100, 2017.07-2022.06, ¥22660,000, participant. 高分辨率海洋模式关键物理过程参数化方案的研发, https://pan.baidu.com/s/1QbMQCoTSx5a-nSC2gkqWwg
+5. National Key Reserach and Development Program of China, 2017YFA0604100, 2017.07-2022.06, ¥22660,000, participant. 高分辨率海洋模式关键物理过程参数化方案的研发
 
-6. National Natural Foundation of China, 41806025, 2019.01-2021.12, ¥250,000, leader. 地形诱导下亚中尺度过程生成机制研究, https://pan.baidu.com/s/1KtSd2EigMoIYW3-7YOeRqg
+6. National Natural Foundation of China, 41806025, 2019.01-2021.12, ¥250,000, leader. 地形诱导下亚中尺度过程生成机制研究
 
 
 ### Talks
@@ -74,15 +74,15 @@ I am interested submesoscale and small-scale processes in the ocean, such as sub
 
 2. 地转剪切对海洋上混合层湍流的贡献，2022.05.24，河海大学
 
-1. 亚中尺度对称不稳定能量串级和气候效应，2022.04.08，第八届"励海"青年科学家论坛--海洋多尺度过程，全球气候和生态环境变化，中国科学院南海海洋研究所，线上, https://pan.baidu.com/s/1mefwSpcGB4klUSk_95VZHw
+1. 亚中尺度对称不稳定能量串级和气候效应，2022.04.08，第八届"励海"青年科学家论坛--海洋多尺度过程，全球气候和生态环境变化，中国科学院南海海洋研究所，线上
 
 
 ### Teaching
 
-1. 2019南京信息工程大学青年教师授课竞赛一等奖， https://pan.baidu.com/s/1Bs5TVR22ziKTm6Hm1CdO4A
-2. 20212021江苏海洋类教学竞赛特等奖，https://pan.baidu.com/s/1OYhs6rTwRdXwjWEWzLzTqw
+1. 2019南京信息工程大学青年教师授课竞赛一等奖
+2. 20212021江苏海洋类教学竞赛特等奖
 
 
 ### Others
 
-1. 自然资源部第二海洋研究所，卫星海洋动力实验室，海星学者，2022.01-2023.12，https://pan.baidu.com/s/161YJ8dDiPo3TU9odUtDPNQ
+1. 自然资源部第二海洋研究所，卫星海洋动力实验室，海星学者，2022.01-2023.12
