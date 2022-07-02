@@ -80,7 +80,7 @@ I am interested submesoscale and small-scale processes in the ocean, such as sub
 ### Teaching
 
 1. 2019南京信息工程大学青年教师授课竞赛一等奖
-2. 20212021江苏海洋类教学竞赛特等奖
+2. 2021江苏海洋类教学竞赛特等奖
 
 
 ### Others
