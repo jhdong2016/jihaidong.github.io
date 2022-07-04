@@ -22,7 +22,7 @@ I am interested submesoscale and small-scale processes in the ocean, such as sub
 
 1. 2019.08-2020.08, Earth, Environmental and Planetary Sciences, Brown University, Visiting Scholar
 
-1. 2016.07-2021.06, School of Marine Sciences, NUIST, Lecture
+1. 2016.07-2021.06, School of Marine Sciences, NUIST, Lecturer
 
 ### Publications
 
