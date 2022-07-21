@@ -70,6 +70,8 @@ I am interested submesoscale and small-scale processes in the ocean, such as sub
 
 ### Talks
 
+1. Second International Conference on Ocean Fronts and Eddies, 2022.07.21, Zhoushan, China, online
+
 1. 海洋上混合层亚中尺度过程全球分布特征，2022.06.21，中国气象科学研究院，线上
 
 2. 地转剪切对海洋上混合层湍流的贡献，2022.05.24，河海大学
