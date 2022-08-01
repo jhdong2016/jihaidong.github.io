@@ -70,6 +70,8 @@ I am interested submesoscale and small-scale processes in the ocean, such as sub
 
 ### Talks
 
+1. 19th Annual Meeting of the Asia Oceania Geosciences Society, 20220801-20220805, online
+
 1. Second International Conference on Ocean Fronts and Eddies, 2022.07.21, Zhoushan, China, online
 
 1. 海洋上混合层亚中尺度过程全球分布特征，2022.06.21，中国气象科学研究院，线上
