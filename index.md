@@ -10,6 +10,10 @@ Email: jihai_dong@nuist.edu.cn
 
 I am interested submesoscale and small-scale processes in the ocean, such as submesoscale eddies, fronts and internal waves and the induced mixing.
 
+Google Scholar: https://scholar.google.com.hk/citations?user=exVnE8S_FGcC&hl=zh-CN
+
+ResearchGate: https://www.researchgate.net/profile/Jihai-Dong/research
+
 ### Education
 
 1. 2011.09-2016.06, Physical Oceanography, PhD,             Ocean University of China
