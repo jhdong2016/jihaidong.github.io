@@ -30,9 +30,9 @@ ResearchGate: https://www.researchgate.net/profile/Jihai-Dong/research
 
 ### Publications
 
-1. **Dong, J.**, Fox-Kemper, B., Jing, Z., Yang, Q, Tian, J., Dong, C. (2022). Turbulent dissipation in the surface mixed layer of an anticyclonic mesoscale eddy in the South China Sea, Geophysical Research Letters, 2022, doi: 10.1029/2022GL100016.
+1. **Dong, J.**, Fox-Kemper, B., Jing, Z., Yang, Q, Tian, J., Dong, C. (2022). Turbulent dissipation in the surface mixed layer of an anticyclonic mesoscale eddy in the South China Sea, _Geophysical Research Letters_, 2022, doi: 10.1029/2022GL100016.
 
-1. **Dong, J.**, Jing, Z., Fox-Kemper, B., Wang, Y., Cao, H., Dong, C. (2022). Effects of symmetric instability in the Kuroshio Extension region in winter, _Deep Sea Research Part II: Topical Studies in Oceanography, 2022, 105142. doi: 10.1016/j.dsr2.2022.105142.
+1. **Dong, J.**, Jing, Z., Fox-Kemper, B., Wang, Y., Cao, H., Dong, C. (2022). Effects of symmetric instability in the Kuroshio Extension region in winter, _Deep Sea Research Part II: Topical Studies in Oceanography_, 2022, 105142. doi: 10.1016/j.dsr2.2022.105142.
 
 1. **Dong, J.**, Dong, C, Yu, K. (2022) Impacts of Climate Change on a Coastal Wetland from Model Simulation Combining Satellite and Gauge Observations: A Case Study of Jiangsu, China[J]. _Remote Sensing_, 14(10): 2473. doi:10.3390/rs14102473
 
