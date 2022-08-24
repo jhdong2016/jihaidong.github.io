@@ -76,9 +76,11 @@ ResearchGate: https://www.researchgate.net/profile/Jihai-Dong/research
 
 ### Talks
 
-1. 19th Annual Meeting of the Asia Oceania Geosciences Society, 20220801-20220805, online
+1. 第6届青年海洋动力论坛，亚中尺度过程对海洋上层混合的贡献及朗缪尔湍流的调制作用, 2022.08.18, 河海大学
 
-1. Second International Conference on Ocean Fronts and Eddies, 2022.07.21, Zhoushan, China, online
+1. Turbulent Dissipation in the Surface Mixed Layer of an Anticyclonic Mesoscale Eddy in the South China Sea, 19th Annual Meeting of the Asia Oceania Geosciences Society, 20220801-20220805, online
+
+1. Turbulent Dissipation in the Surface Mixed Layer of an Anticyclonic Mesoscale Eddy in the South China Sea, Second International Conference on Ocean Fronts and Eddies, 2022.07.21, Zhoushan, China, online
 
 1. 海洋上混合层亚中尺度过程全球分布特征，2022.06.21，中国气象科学研究院，线上
 
