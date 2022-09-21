@@ -63,9 +63,9 @@ ResearchGate: https://www.researchgate.net/profile/Jihai-Dong/research
 
 1. Open fund of State Key Laboratory of Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences, LTO2101, 2021.07-2023.6, ¥50,000, leader. 南海亚中尺度对称不稳定参数化方案应用
 
-2. National Natural Foundation of China, 42130405, 2022.01-2026.12, ¥3000,000, participant. 全球变化下江苏海岸线变迁的过程-响应机制,
+2. National Natural Science Foundation of China, 42130405, 2022.01-2026.12, ¥3000,000, participant. 全球变化下江苏海岸线变迁的过程-响应机制,
 
-3. National Natural Foundation of China, 42176023, 2022.01-2025.12, ¥580,000, leader. 亚中尺度对称不稳定参数化方案优化和应用
+3. National Natural Science Foundation of China, 42176023, 2022.01-2025.12, ¥580,000, leader. 亚中尺度对称不稳定参数化方案优化和应用
 
 4. National Key Reserach and Development Program of China, 2018YFA0605904, 2018.07-2023.06, ¥4600,000, participant. 高分辨率海冰模式在地球系统模式中的应用
 
