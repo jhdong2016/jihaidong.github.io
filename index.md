@@ -78,7 +78,9 @@ ResearchGate: https://www.researchgate.net/profile/Jihai-Dong/research
 
 ### Talks
 
-1. 第6届青年海洋动力论坛，亚中尺度过程对海洋上层混合的贡献及朗缪尔湍流的调制作用, 2022.08.18, 河海大学
+1. 2nd IAMES conference, Dependence of submesoscale simulation on turbulence closure schemes in the Regional Ocean Modelling Modeling System (ROMS), 2022.11.30, online.
+
+2. 第6届青年海洋动力论坛，亚中尺度过程对海洋上层混合的贡献及朗缪尔湍流的调制作用, 2022.08.18, 河海大学
 
 1. Turbulent Dissipation in the Surface Mixed Layer of an Anticyclonic Mesoscale Eddy in the South China Sea, 19th Annual Meeting of the Asia Oceania Geosciences Society, 20220801-20220805, online
 
