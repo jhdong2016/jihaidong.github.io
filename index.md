@@ -78,7 +78,9 @@ ResearchGate: https://www.researchgate.net/profile/Jihai-Dong/research
 
 ### Talks
 
-1. 2nd IAMES conference, Dependence of submesoscale simulation on turbulence closure schemes in the Regional Ocean Modelling Modeling System (ROMS), 2022.11.30, online.
+1. 6th Xiamen Symposium on Marine Environmental Sciences, Dissipation regimes in the ocean surface boundary layer globally, 2023.01.13, online
+
+3. 2nd IAMES conference, Dependence of submesoscale simulation on turbulence closure schemes in the Regional Ocean Modelling Modeling System (ROMS), 2022.11.30, online.
 
 2. 第6届青年海洋动力论坛，亚中尺度过程对海洋上层混合的贡献及朗缪尔湍流的调制作用, 2022.08.18, 河海大学
 
