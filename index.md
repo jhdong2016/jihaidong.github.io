@@ -30,9 +30,11 @@ ResearchGate: https://www.researchgate.net/profile/Jihai-Dong/research
 
 ### Publications
 
-1. Wang, Y., **Dong, J.**, Ji, C., Dong, C. (2022). Dependence of submesoscale simulation on turbulence closure schemes in the Regional Ocean Modelling System (ROMS), _Ocean Modelling_, doi: 10.1016/j.ocemod.2022.102120
+1. Ma, S., **Dong, J.**, Dong, C., Jing, Z. (2024). Effects of Symmetric Instability on Potential Vorticity Budget in the Kuroshio Extension Region via a Parameterization Scheme. Journal of Geophysical Research: Oceans, doi: 10.1029/2023JC020375
+2. Cao, Y., Dong, C.*, Stegner, A., Bethel, B. J., Li, C., **Dong, J.**, ... & Yang, J. (2023). Global sea surface cyclogeostrophic currents derived from satellite altimetry data. Journal of Geophysical Research: Oceans, 128(1), doi: 10.1029/2022JC019357
+3. Wang, Y., **Dong, J.**, Ji, C., Dong, C. (2022). Dependence of submesoscale simulation on turbulence closure schemes in the Regional Ocean Modelling System (ROMS), _Ocean Modelling_, doi: 10.1016/j.ocemod.2022.102120
 
-3. **Dong, J.**, Fox-Kemper, B., Jing, Z., Yang, Q, Tian, J., Dong, C. (2022). Turbulent dissipation in the surface mixed layer of an anticyclonic mesoscale eddy in the South China Sea, _Geophysical Research Letters_, doi: 10.1029/2022GL100016.
+4. **Dong, J.**, Fox-Kemper, B., Jing, Z., Yang, Q, Tian, J., Dong, C. (2022). Turbulent dissipation in the surface mixed layer of an anticyclonic mesoscale eddy in the South China Sea, _Geophysical Research Letters_, doi: 10.1029/2022GL100016.
 
 1. **Dong, J.**, Jing, Z., Fox-Kemper, B., Wang, Y., Cao, H., Dong, C. (2022). Effects of symmetric instability in the Kuroshio Extension region in winter, _Deep Sea Research Part II: Topical Studies in Oceanography_, 105142. doi: 10.1016/j.dsr2.2022.105142.
 
